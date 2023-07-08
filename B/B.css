@@ -1,0 +1,32 @@
+body{
+    background-image: url('Night-Wallpapers.jpg');
+
+}
+*{
+    box-sizing:border border-box;
+    -webkit-box-sizing:border border-box;
+    -moz-box-sizing:border border-box
+}
+
+.wrap{
+     width:300px;
+     margin: auto;
+     height: auto;
+     padding: 30px;
+     background-color:rgb(40, 100, 124);
+}
+
+input[type=text]{
+    width:250px;
+    height: 30px;
+     
+}
+input[type=button]{ 
+    width:60px;
+    height: 30px;
+
+}
+
+#del{
+    width:250px;
+}
