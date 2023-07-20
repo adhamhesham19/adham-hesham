@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('da.jpg')
+
+  }
+
+.img{
+    display: block;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:hover{
+
+    color: rgba(24, 194, 216, 0.76);
+    font-size: 17px;
+}
+
+
+
+.rigistr-card{
+    margin: auto;
+     
+               background-color: white;
+               width: 450px;
+               height: 700px;
+               font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 20px;
+}
+
+.button{
+    height: 25px;
+    width: 255px;
+    background-color:green;
+   color: white;
+    margin-inline:auto;
+    display: inline-block;
+    border: none;
+    outline:none;
+    border-radius: 5px;
+    padding: 8px 24px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+
+.rigistr-form{
+
+padding: 20px;
+
+}
+
+.gender > span{
+height:40px;
+ width: 25%;
+ padding-block: 16px;
+ display: inline-block;
+ text-align: center;
+ border-radius: 5px;
+border: 1px solid;
+}
+
+
+
+input[type="text"]{
+height: 22px;
+width: 200px;
+
+
+
+
+}
+
+.title-carde{
+
+text-align: center;
+
+} 
+input[type="password"]{
+
+width: 277.5px;
+    height: 30px;
+
+}
+
+input[type="email"]{
+    width: 277.5px;
+
+    height: 30px;
+
+}
+
+.Date select{
+
+    width: 32%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 102, 255);
+}
+.aa{
+
+text-align: center;
+
+}
